@@ -1,0 +1,12 @@
+/home/semigrp/dev/wasm/hello-wasm/target/release/deps/proc_macro2-f85bed8a77359066.rmeta: /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/lib.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/marker.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/parse.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/detection.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/fallback.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/wrapper.rs
+
+/home/semigrp/dev/wasm/hello-wasm/target/release/deps/libproc_macro2-f85bed8a77359066.rlib: /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/lib.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/marker.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/parse.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/detection.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/fallback.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/wrapper.rs
+
+/home/semigrp/dev/wasm/hello-wasm/target/release/deps/proc_macro2-f85bed8a77359066.d: /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/lib.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/marker.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/parse.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/detection.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/fallback.rs /home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/wrapper.rs
+
+/home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/lib.rs:
+/home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/marker.rs:
+/home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/parse.rs:
+/home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/detection.rs:
+/home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/fallback.rs:
+/home/semigrp/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.37/src/wrapper.rs:
